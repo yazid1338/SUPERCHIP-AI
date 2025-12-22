@@ -1,2 +1,1 @@
-# SUPERCHIP-AI
-yazid.com 
+
